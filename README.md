@@ -70,7 +70,7 @@ A technically impressive answer can still be weak if it begins with infrastructu
 
 This repository teaches the approach. The **Palantir Forward Deployed Engineer Interview Bundle** adds complete timed mock interviews, staged interviewer follow-ups, evaluator rubrics, model-answer directions and remediation guidance.
 
-[View the complete €39 preparation bundle](https://tobiweissmann.gumroad.com/l/ksjhrt)
+[View the complete €39 preparation bundle](https://tobiweissmann.gumroad.com/l/mwglla)
 
 ## Ethical use
 
